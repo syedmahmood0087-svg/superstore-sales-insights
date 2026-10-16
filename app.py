@@ -462,7 +462,7 @@ def show_header():
     st.markdown(
         """
         <div class="hero">
-            <h1>📊 Superstore Sales Insights</h1>
+            <h1>📊 Superstore Sales Insights  Dashboard</h1>
             <p>Retail Performance&nbsp; • &nbsp;Sales Trends&nbsp; • &nbsp;Profitability Analytics</p>
         </div>
         """,
